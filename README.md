@@ -31,7 +31,7 @@ $ npm test
 $ npm run start:echo
 ```
 
-* This will start up the `client` and the `API`.
+* Thiss will start up the `client` and the `API`.
 * Open the client on browser: `http://localhost:1234/`
 * Type and send message, in browser console must appear:
     - `/random-channel#79PVp22K8iHx6tTCAAAA` This identifies the socket.io namespace and socket id 
